@@ -1,5 +1,3 @@
-README.md
-
 C - argc, argv
 
 TASKS
